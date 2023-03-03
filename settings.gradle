@@ -1,0 +1,3 @@
+rootProject.name='cm-esim-lib-android'
+include ':app'
+include ':esimlibrary'
